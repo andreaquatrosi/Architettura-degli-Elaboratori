@@ -1,4 +1,4 @@
-[[11.2 Il sistema di Input e Output - Bus Sincroni e Asincroni]]
+[[12.2 Il sistema di Input e Output - Bus Sincroni e Asincroni]]
 **Architettura**:
 - ![[Pasted image 20240126183018.png]]
 La connessione tra CPU e Memoria avviene tramite il Bus di Sistema
