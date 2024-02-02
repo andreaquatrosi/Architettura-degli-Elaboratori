@@ -1,4 +1,4 @@
-[[12.2 Il sistema di Input e Output]]
+[[13. Il sistema di Input e Output]]
 **Architettura**:
 - ![[Pasted image 20240126183018.png]]
 La connessione tra CPU e Memoria avviene tramite il Bus di Sistema
